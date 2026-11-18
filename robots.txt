@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fountainvalleyrestoration.com/sitemap.xml
